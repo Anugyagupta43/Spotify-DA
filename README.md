@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/3e/7d/7e/3e7d7e11e5abff88a41fd940b4522ced.jpg" width="600" alt="Spotify DA Banner">
+</p>
+
 # 🎧 Spotify Data Analysis with SQL
 
 Welcome to the **Spotify Data Analysis** project!  
